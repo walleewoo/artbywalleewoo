@@ -1,0 +1,29 @@
+{
+  "wallpapers": [
+    {
+      "author": "Wallace Clark",
+      "url": "Name of file location here",
+      "name": "Name of file"
+    },
+    {
+      "author": "Wallace Clark",
+      "url": "url name here",
+      "name": "file name"
+    },
+    {
+      "author": "Wallace Clark",
+      "url": "url here",
+      "name": "file name"
+    },
+    {
+      "author": "Wallace Clark",
+      "url": "url here",
+      "name": "file name"
+    },
+    {
+      "author": "Wallace Clark",
+      "url": "url",
+      "name": "file name"
+    }
+  ]
+}
